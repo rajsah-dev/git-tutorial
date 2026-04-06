@@ -1,0 +1,1 @@
+The git remote add origin <url> command connects your local repository to a remote server (like GitHub, GitLab, or Bitbucket) for the first time. It creates a shorthand name, "origin," so you don't have to type the full URL every time you push or pull code
